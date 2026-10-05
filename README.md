@@ -11,6 +11,7 @@ El caso de estudio utiliza el sistema clásico de **Lotka–Volterra** para repr
 **Institución:** Tecnológico Nacional de México / Instituto Tecnológico de Tijuana  
 **Asignatura:** Modelado Matemático  
 **Programa:** Maestría en Ciencias de la Ingeniería
+
 **Alumno:** Ariel Isai Perez Manzano L20211610@tectijuana.edu.mx  
 
 ---
