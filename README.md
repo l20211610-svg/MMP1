@@ -179,11 +179,11 @@ $$
 
 El significado biológico del modelo requiere soluciones no negativas. Al evaluar el campo vectorial sobre las fronteras del cuadrante no negativo,
 
-$
+$$
 \left.\dot{x}\right|_{x=0}=0,
 \qquad
 \left.\dot{y}\right|_{y=0}=0.
-$
+$$
 
 Por lo tanto, el dominio
 
@@ -425,6 +425,7 @@ $$
 
 el predictor de Euler es
 
+```math
 $$
 \widetilde{\mathbf{X}}_{n+1}
 =
@@ -435,6 +436,7 @@ y el corrector de Heun se define como
 
 $$
 \mathbf{X}_{n+1}
+```math
 =
 \mathbf{X}_n+
 \frac{h}{2}
