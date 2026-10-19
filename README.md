@@ -431,7 +431,7 @@ $$
 =
 \mathbf{X}_n+h\mathbf{F}(\mathbf{X}_n),
 $$
-
+```
 y el corrector de Heun se define como
 
 $$
